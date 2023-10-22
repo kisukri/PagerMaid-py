@@ -1,2 +1,2 @@
 # pagermaid-py
-用来放各种自走bot插件
+Alue用来放各种自走bot插件
